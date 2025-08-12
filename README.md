@@ -1,15 +1,15 @@
 <h1 align="center"> 𝗦𝗵𝗮𝗼 𝘅𝗺𝗱 </h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/CypherX">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+  <a href="https://github.com/SHAO-XMD/SHAO-XMD">
+    <img alt="shao Xmd docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
   </a>
 </p>
     
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/CypherX-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/SHAO-XMD/SHAO-XMD"><img title="Author" src="https://img.shields.io/badge/shao Xmd-darkblie?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 <p align="center">
